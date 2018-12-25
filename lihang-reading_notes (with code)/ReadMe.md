@@ -5,6 +5,7 @@
 #### List:
 &emsp;&emsp;**第1章 统计学习方法概论(LeastSquaresMethod)**  
 &emsp;&emsp;**第2章 感知机(Perceptron)**  
-&emsp;&emsp;**第3章 k近邻法(KNearestNeighbors)**
+&emsp;&emsp;**第3章 k近邻法(KNearestNeighbors)**  
+&emsp;&emsp;**第4章 朴素贝叶斯(NaiveBayes)**
 
 代码部分主要引用自 ： [https://github.com/fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
