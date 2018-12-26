@@ -7,6 +7,7 @@
 &emsp;&emsp;**第2章 感知机(Perceptron)**  
 &emsp;&emsp;**第3章 k近邻法(KNearestNeighbors)**  
 &emsp;&emsp;**第4章 朴素贝叶斯(NaiveBayes)**  
-&emsp;&emsp;**第5章 决策树(DecisionTree)**
+&emsp;&emsp;**第5章 决策树(DecisionTree)**  
+&emsp;&emsp;**第6章 逻辑斯特函数与最大熵模型(LogisticRegression)**
 
 代码部分主要引用自 ： [https://github.com/fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
